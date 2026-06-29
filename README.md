@@ -110,11 +110,11 @@ The application allows users to:
 
 ### 🎨 Design File
 
-**Add your Figma Design File Link here**
+https://www.figma.com/design/5naT39TfeZtjj36xO1OxCd/car-Wash?node-id=0-1&t=JkEPrSYLRBfmes7s-1
 
 ### 📱 Interactive Prototype
 
-**Add your Figma Prototype Link here**
+https://www.figma.com/proto/5naT39TfeZtjj36xO1OxCd/car-Wash?node-id=0-1&t=JkEPrSYLRBfmes7s-1
 
 ---
 
